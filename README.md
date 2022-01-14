@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **FOOD NEXT DOOR**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node**
 
 - 👯 I’m looking to collaborate on **React opensource projects**
 
